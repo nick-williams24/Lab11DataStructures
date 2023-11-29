@@ -38,6 +38,6 @@ int main()
             p2.printPartyHealth("p2");
         }
     }
-    std::cout << "Game over" << std::endl;
+    std::cout << "Game over!!!!!!!" << std::endl;
     return 0;
 }
